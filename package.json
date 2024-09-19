@@ -1,0 +1,14 @@
+{
+  "name": "personal-video-maker",
+  "version": "1.0.0",
+  "description": "personal-video-maker é um bot automatizado para criar vídeos personalizados de forma rápida e eficiente. Ele combina imagens, áudio e texto em templates predefinidos, permitindo gerar vídeos de maneira dinâmica e sem esforço manual. Ideal para criadores de conteúdo que precisam de vídeos em massa ou personalizados.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
